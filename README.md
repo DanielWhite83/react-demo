@@ -1,7 +1,12 @@
-# This is the code for a react.js based animated scrolling card demo with Bootstrap v5.
+
+
+## React.js based animated scrolling card demo with Bootstrap v5.
+
+This project was completed by Dan White: dan.white.ku@gmail.com
+
 A live version can be found here: [https://www.danteacher.com/react-demo/](https://www.danteacher.com/react-demo/)
 
-# Below is default create react app information
+## Below is default create react app information
 
 # Getting Started with Create React App
 
